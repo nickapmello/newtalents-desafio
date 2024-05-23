@@ -1,0 +1,5 @@
+C:\Users\nicol\OneDrive\Documentos\GitHub\newtalents-desafio\CalculadoraApp.Tests\obj\Debug\net8.0\CalculadoraApp.Tests.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive\Documentos\GitHub\newtalents-desafio\CalculadoraApp.Tests\obj\Debug\net8.0\CalculadoraApp.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Documentos\GitHub\newtalents-desafio\CalculadoraApp.Tests\obj\Debug\net8.0\CalculadoraApp.Tests.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Documentos\GitHub\newtalents-desafio\CalculadoraApp.Tests\obj\Debug\net8.0\CalculadoraApp.Tests.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Documentos\GitHub\newtalents-desafio\CalculadoraApp.Tests\obj\Debug\net8.0\CalculadoraApp.Tests.csproj.CoreCompileInputs.cache

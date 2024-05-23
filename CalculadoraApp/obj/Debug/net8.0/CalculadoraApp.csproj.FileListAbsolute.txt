@@ -1,0 +1,11 @@
+C:\Users\nicol\OneDrive\Documentos\GitHub\newtalents-desafio\CalculadoraApp\bin\Debug\net8.0\CalculadoraApp.deps.json
+C:\Users\nicol\OneDrive\Documentos\GitHub\newtalents-desafio\CalculadoraApp\bin\Debug\net8.0\CalculadoraApp.dll
+C:\Users\nicol\OneDrive\Documentos\GitHub\newtalents-desafio\CalculadoraApp\bin\Debug\net8.0\CalculadoraApp.pdb
+C:\Users\nicol\OneDrive\Documentos\GitHub\newtalents-desafio\CalculadoraApp\obj\Debug\net8.0\CalculadoraApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Documentos\GitHub\newtalents-desafio\CalculadoraApp\obj\Debug\net8.0\CalculadoraApp.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Documentos\GitHub\newtalents-desafio\CalculadoraApp\obj\Debug\net8.0\CalculadoraApp.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Documentos\GitHub\newtalents-desafio\CalculadoraApp\obj\Debug\net8.0\CalculadoraApp.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Documentos\GitHub\newtalents-desafio\CalculadoraApp\obj\Debug\net8.0\CalculadoraApp.dll
+C:\Users\nicol\OneDrive\Documentos\GitHub\newtalents-desafio\CalculadoraApp\obj\Debug\net8.0\refint\CalculadoraApp.dll
+C:\Users\nicol\OneDrive\Documentos\GitHub\newtalents-desafio\CalculadoraApp\obj\Debug\net8.0\CalculadoraApp.pdb
+C:\Users\nicol\OneDrive\Documentos\GitHub\newtalents-desafio\CalculadoraApp\obj\Debug\net8.0\ref\CalculadoraApp.dll
